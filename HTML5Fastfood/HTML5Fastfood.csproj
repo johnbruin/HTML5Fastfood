@@ -75,6 +75,18 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\1.png" />
+    <Content Include="Images\2.png" />
+    <Content Include="Images\3.png" />
+    <Content Include="Images\4.png" />
+    <Content Include="Images\5.png" />
+    <Content Include="Images\6.png" />
+    <Content Include="Images\overlay_bottom.png" />
+    <Content Include="Images\overlay_top.png" />
+    <Content Include="index.html" />
+    <Content Include="js\jquery-2.1.0.min.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\roll.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
